@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reacttaskapp/static/css/main.f2220a01.chunk.css",
+    "main.js": "/Reacttaskapp/static/js/main.db0bd272.chunk.js",
+    "main.js.map": "/Reacttaskapp/static/js/main.db0bd272.chunk.js.map",
+    "runtime-main.js": "/Reacttaskapp/static/js/runtime-main.14df802d.js",
+    "runtime-main.js.map": "/Reacttaskapp/static/js/runtime-main.14df802d.js.map",
+    "static/js/2.144444a2.chunk.js": "/Reacttaskapp/static/js/2.144444a2.chunk.js",
+    "static/js/2.144444a2.chunk.js.map": "/Reacttaskapp/static/js/2.144444a2.chunk.js.map",
+    "static/js/3.c4ba973f.chunk.js": "/Reacttaskapp/static/js/3.c4ba973f.chunk.js",
+    "static/js/3.c4ba973f.chunk.js.map": "/Reacttaskapp/static/js/3.c4ba973f.chunk.js.map",
+    "index.html": "/Reacttaskapp/index.html",
+    "static/css/main.f2220a01.chunk.css.map": "/Reacttaskapp/static/css/main.f2220a01.chunk.css.map",
+    "static/js/2.144444a2.chunk.js.LICENSE.txt": "/Reacttaskapp/static/js/2.144444a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14df802d.js",
+    "static/js/2.144444a2.chunk.js",
+    "static/css/main.f2220a01.chunk.css",
+    "static/js/main.db0bd272.chunk.js"
+  ]
+}
